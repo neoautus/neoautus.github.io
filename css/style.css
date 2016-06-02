@@ -186,12 +186,12 @@ ul.shortcode-list i {
   text-transform: uppercase;
   letter-spacing: 1px;
   color: #fff;
-  background: #000066;
-  border: 2px solid #000066;
+  background: #0083c1;
+  border: 2px solid #0083c1;
 }
 
 .button:hover {
-  background-color: rgba(249, 206, 6, 0.8);
+  background-color: rgba(0,131,193, 0.8);
 }
 
 .button.boxed {
