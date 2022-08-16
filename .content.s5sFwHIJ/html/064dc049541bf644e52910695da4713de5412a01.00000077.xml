@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.6 - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>NEOautus Automation Systems - Produtos</title>
+		<description>Automação de sistemas elétricos de potência. Consultoria e suporte técnico para atividades de customização, parametrização, configuração e comissionamento. Testes de dispositivos elétricos e redes locais. Desenvolvimento de Sistemas de Automação sob demanda</description>
+		<link>http://neoautus.com/produtos</link>
+		<lastBuildDate>Dom, 29 Dez 2013 22:30:38 +0000</lastBuildDate>
+		<generator>Joomla! 1.6 - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="/produtos?format=feed&amp;type=rss"/>
+		<language>pt-br</language>
+		<item>
+			<title>RealCons</title>
+			<link>http://neoautus.com/produtos/12-realcons</link>
+			<guid isPermaLink="true">http://neoautus.com/produtos/12-realcons</guid>
+			<description><![CDATA[<p style="text-align: justify;"><span style="white-space: pre-wrap; font-family: Arial; font-size: 10pt; text-align: start;">Sistema de monitoramento do consumo real de energia em diversos ambientes.</span></p>
+]]></description>
+			<author>newtonmuchael@neoautus.com (Super User)</author>
+			<pubDate>Ter, 28 Ago 2012 12:29:15 +0000</pubDate>
+		</item>
+		<item>
+			<title>NeoPlex</title>
+			<link>http://neoautus.com/produtos/8-neoplex</link>
+			<guid isPermaLink="true">http://neoautus.com/produtos/8-neoplex</guid>
+			<description><![CDATA[<p>Software embarcado em automatizadores de portão eletrônico para transmissão e recepção de dados.</p>
+]]></description>
+			<author>newtonmuchael@neoautus.com (Super User)</author>
+			<pubDate>Qui, 19 Mai 2011 20:46:35 +0000</pubDate>
+		</item>
+		<item>
+			<title>NeoKerby HDS</title>
+			<link>http://neoautus.com/produtos/4-hds</link>
+			<guid isPermaLink="true">http://neoautus.com/produtos/4-hds</guid>
+			<description><![CDATA[<p>Software de Segurança para Microsoft Windows.</p>
+]]></description>
+			<author>newtonmuchael@neoautus.com (Super User)</author>
+			<pubDate>Qui, 05 Mai 2011 19:12:22 +0000</pubDate>
+		</item>
+	</channel>
+</rss>
